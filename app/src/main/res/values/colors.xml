@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+    <color name="white">#ffffff</color>
+    <color name="green">#00fa9a</color>
+
+
+    <color name="blue">#00bfff</color>
+    <color name="black">#000000</color>
+    <color name="statusbarcolor">#CECECE</color>
+    <color name="gray">#D0D3D4</color>
+
+    <color name="futuregreen">#68FFA7</color>
+    <color name="futuregreen2">#9FE2BF</color>
+    <color name="futuregreen3">#40E0D0</color>
+    <color name="futureblue">#6495ED</color>
+    <color name="futurepurple">#CCCCFF</color>
+    <color name="futureblack">#244234</color>
+    <color name="futurewhite">#F2F5F5</color>
+
+
+</resources>
